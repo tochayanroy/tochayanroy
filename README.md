@@ -1,7 +1,7 @@
-![logo](https://github.com/ChayanThe01Guy/ChayanThe01Guy/blob/main/Img.png?raw=true);
-<h1 align="center">Hello 👋, I'm Chayan Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayanthe01guy&label=Profile%20views&color=0e75b6&style=flat" alt="chayanthe01guy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chayanthe01guy" target="blank"><img src="https://img.shields.io/twitter/follow/chayanthe01guy?logo=twitter&style=for-the-badge" alt="chayanthe01guy" /></a> </p>
