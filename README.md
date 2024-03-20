@@ -16,6 +16,9 @@
 - ⚡ Fun fact **... I'm not finished yet**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> 
+  <a href="https://facebook.com/chayanthe01guy" target="blank"><img src="https://img.shields.io/facebook/follow/chayanthe01guy?logo=facebook&style=for-the-badge" alt="chayanthe01guy" /></a> 
+</p>
 <p align="left">
 <a href="https://twitter.com/chayan0roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chayanthe01guy" height="30" width="40" /></a>
 <a href="https://fb.com/chayan0roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chayanthe01guy" height="30" width="40" /></a>
