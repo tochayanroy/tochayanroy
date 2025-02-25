@@ -19,7 +19,6 @@
 
 <p align="left">
  <a href="https://instagram.com/chayan0roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chayanthe01guy" height="30" width="40" /></a>
-<p align="left">
 <a href="https://twitter.com/chayan0roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chayanthe01guy" height="30" width="40" /></a>
 <a href="https://fb.com/chayan0roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chayanthe01guy" height="30" width="40" /></a>
 
