@@ -53,8 +53,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayan0roy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chayan0roy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tochayanroy&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tochayanroy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayan0roy&show_icons=true&locale=en&theme=tokyonight" alt="chayan0roy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tochayanroy&show_icons=true&locale=en&theme=tokyonight" alt="tochayanroy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chayan0roy&&theme=tokyonight" alt="chayan0roy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tochayanroy&&theme=tokyonight" alt="tochayanroy" /></p>
